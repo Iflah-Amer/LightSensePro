@@ -1,0 +1,9 @@
+{
+  "adaptive_on": false,
+  "reading_on": false,
+  "filter_on": false,
+  "emergency_on": false,
+  "zoom": 1.5,
+  "clahe_clip": 2.7,
+  "gamma": 1.1
+}
